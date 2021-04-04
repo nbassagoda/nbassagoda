@@ -1,5 +1,4 @@
-![hello fellow coder_ , I'M NOE(2)](https://user-images.githubusercontent.com/27690774/113497225-5253c300-94d8-11eb-9531-c0e931c5ec16.gif)
-
+![hello fellow coder_ , I'M NOE-1](https://user-images.githubusercontent.com/27690774/113497419-64366580-94da-11eb-8654-cbc8d2f4df6d.gif)
 <!--
 ### Hey there fellow `<coder/>` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 **nbassagoda/nbassagoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
