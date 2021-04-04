@@ -1,4 +1,4 @@
-![Azul Rosa Abstracto Trazo de Acuarela Invitación de Bodas](https://user-images.githubusercontent.com/27690774/113495615-693ee900-94c9-11eb-95c9-030480bceaf9.gif)
+![Diseño sin título](https://user-images.githubusercontent.com/27690774/113496265-537ff280-94ce-11eb-8b96-e7510273b03f.gif)
 
 
 <!--
