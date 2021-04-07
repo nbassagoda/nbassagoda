@@ -1,4 +1,5 @@
-![hello fellow coder_ , I'M NOE(5)](https://user-images.githubusercontent.com/27690774/113497986-2ab42900-94df-11eb-8fb0-94aa786f3b6c.gif)
+![github-banner](https://user-images.githubusercontent.com/27690774/113938151-94c71980-97d0-11eb-8f1a-738d63c106af.gif)
+
 
 <!--
 ### Hey there fellow `<coder/>` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
